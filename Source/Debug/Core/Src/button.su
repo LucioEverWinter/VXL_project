@@ -1,0 +1,5 @@
+../Core/Src/button.c:21:5:isButton1Pressed	4	static
+../Core/Src/button.c:29:5:isButton2Pressed	4	static
+../Core/Src/button.c:37:5:isButton3Pressed	4	static
+../Core/Src/button.c:45:6:subKeyProcess	16	static
+../Core/Src/button.c:54:6:getKeyInput	16	static
